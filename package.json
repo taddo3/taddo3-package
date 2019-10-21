@@ -1,0 +1,24 @@
+{
+  "name": "taddo3-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --color test/test.js",
+    "index": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taddo3/taddo3-package.git"
+  },
+  "keywords": ["hello", "world"],
+  "author": "tadeasdrahovsky@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taddo3/taddo3-package/issues"
+  },
+  "homepage": "https://github.com/taddo3/taddo3-package#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
