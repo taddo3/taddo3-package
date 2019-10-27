@@ -1,6 +1,6 @@
 {
   "name": "taddo3-package",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "taddo3-package for vavjs",
   "main": "src/index.js",
   "scripts": {
@@ -23,9 +23,11 @@
   "homepage": "https://github.com/taddo3/taddo3-package#readme",
   "dependencies": {
     "juromecir-package": "git+https://github.com/JuroMecir/JuroMecir-package.git",
-    "mocha": "^6.2.2"
+    "mocha": "^6.2.2",
+    "random": "^2.1.1"
   },
   "devDependencies": {
-  	"mocha": "^6.2.2"
+    "mocha": "^6.2.2",
+    "random": "^2.1.1"
   }
 }
