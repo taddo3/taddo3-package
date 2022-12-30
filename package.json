@@ -23,11 +23,11 @@
   "homepage": "https://github.com/taddo3/taddo3-package#readme",
   "dependencies": {
     "juromecir-package": "git+https://github.com/JuroMecir/JuroMecir-package.git",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "random": "^2.1.1"
   },
   "devDependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "random": "^2.1.1"
   }
 }
